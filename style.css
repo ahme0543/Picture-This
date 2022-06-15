@@ -35,7 +35,7 @@ img {
 }
 
 @media (min-width: 960px) {
-  .header {
+   .header {
     grid-template-columns: repeat(2, 1fr);
-  }
+  } 
 }
